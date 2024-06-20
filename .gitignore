@@ -23,7 +23,7 @@ pids
 
 #exclude this
 backend/env
-
+.node_modules/
 
 autheticationEducationDynamo.json
 good.py
