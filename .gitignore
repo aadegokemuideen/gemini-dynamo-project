@@ -1,0 +1,31 @@
+
+.dynamodb/
+
+#TernJS port file
+.tern-port
+
+#stores VScode versions used for testing VScode extensions
+.vscode-test
+
+.env
+#yarn v2
+.yarn/cache
+.yarn/unplugged
+.yarn/build-state.yml
+.yarn/install-state.g
+.pnp.*
+
+#Runtime data
+pids
+*.pid
+*.seed
+*.pid.lock
+
+#exclude this
+backend/env
+
+
+autheticationEducationDynamo.json
+good.py
+
+
